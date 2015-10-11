@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/StackHut/Samples.png?label=ready&title=Ready)](https://waffle.io/StackHut/Samples)
 # StackHut Samples
 Common repo for StackHut Sample Services - this repo is kept empty but we use it to store common documentation, track bugs across StackHut samples/examples and to coordinate development efforts.
 
