@@ -18,9 +18,9 @@ Common repo for StackHut Sample Services - this repo is kept empty but we use it
  * [image-process](https://github.com/StackHut/image-process) - Image Processing-as-a-Service using ImageMagick
  * [web-tools](https://github.com/StackHut/web-tools) - Remote Web-Rendering and tooling using PhantomJS
  * [media-download](https://github.com/StackHut/media-download) - youtube-dl-as-Service to download media from online sites (may be blocked from services from time to time)
- * [t-shirt-aaS](https://github.com/StackHut/t-shirt-aaS) - Not yet live - 
+ * [t-shirt-aaS](https://github.com/StackHut/t-shirt-aaS) - Not yet live
 
-## Calling
+## Calling These Services
 
 All of these services are all live and running under the `stackhut` namespace, i.e. `stackhut/servicename`, and can be called and tried out.
 You can call them using any of the client libraries or `curl` as described in the [StackHut documentation](http://stackhut.readthedocs.org/).
